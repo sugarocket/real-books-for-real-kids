@@ -87,7 +87,7 @@ npm install
 npm run dev
 ```
 
-**Preview URL:** https://autoqa.teachx.ai/hackathon/preview/just-a-kid-wanting-to-read/
+**Preview** 
 
 ---
 
